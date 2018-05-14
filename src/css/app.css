@@ -1,0 +1,9 @@
+.openTodo {
+  font-weight: bold;
+  color: red;
+}
+
+.closeTodo {
+  color: green;
+  text-decoration: line-through;
+}
